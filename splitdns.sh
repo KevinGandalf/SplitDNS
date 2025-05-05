@@ -1,5 +1,5 @@
 #!/bin/bash
-source /opt/mpvpn/globals.sh
+source /opt/splitdns/globals.conf
 
 # DNS-Server für die Auflösung
 DNS_SERVERS=(

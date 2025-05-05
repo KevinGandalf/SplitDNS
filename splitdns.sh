@@ -1,7 +1,6 @@
 #!/bin/bash
 
 # Lade globale Konfigurationen
-source /opt/mpvpn/globals.sh
 source /opt/splitdns/globals.conf
 
 # Netzwerkschnittstelle und Gateway aus globals.sh
